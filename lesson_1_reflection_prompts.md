@@ -14,15 +14,15 @@
 
 ## Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+    Some logical change involve multive files sometimes, but Google Doc etc, can't create the commit to track that kind of change, that's not good
 
 ## How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    `git log` show the full git history, then we can find which one we want by find git message, then copy git ID, use `git diff ID1 ID2` to spot difference
 
 ## How might using version control make you more confident to make changes that could break something?
 
-    Fill in your answer here
+    
 
 ## Now that you have your workspace set up, what do you want to try using Git for?
 
