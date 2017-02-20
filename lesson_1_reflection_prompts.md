@@ -22,7 +22,7 @@
 
 ## How might using version control make you more confident to make changes that could break something?
 
-    
+    when shit happens we just need to find out where the program works fine then git diff the fine commit, then we find problem
 
 ## Now that you have your workspace set up, what do you want to try using Git for?
 
